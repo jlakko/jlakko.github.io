@@ -4,7 +4,7 @@ title:  "Git is great!"
 date:   2022-02-07 23:00:00 -0600
 categories: git vcs
 ---
-Git is a version control system used broadly in the development world. The best way to learn git is though consistant usage. It's great to be mentored by a git expert. If you want to try learning on your own, https://git-scm.com/ is a fantastic resource. 
+Git is a version control system used broadly in the development world. The best way to learn git is though consistant usage. It's great to be mentored by a git expert. If you want to try learning on your own, [git-scm.com][https://git-scm.com/] is a fantastic resource. 
 
 Herr are common commands every git user will use.
 
