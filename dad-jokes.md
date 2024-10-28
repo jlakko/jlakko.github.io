@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dad Jokes
+permalink: /dad-jokes/
 ---
 
 # Dad Jokes
