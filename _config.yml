@@ -17,8 +17,8 @@ title: James Lakko Blog
 email: james_lakko@byu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   James Lakko's github site to showcase new and exciting work.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jlakko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jlakko.github.io" # the subpath of your site, e.g. /blog
+url: "https://jlakko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sparkyscout
 github_username:  jlakko
 
